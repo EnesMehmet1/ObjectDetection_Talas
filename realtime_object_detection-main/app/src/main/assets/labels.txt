@@ -1,0 +1,6 @@
+0 1.3Snarled
+1 2.2Short
+2 2.3Snarled
+3 4.2Short
+4 6.1Connected
+5 6.2Loose
